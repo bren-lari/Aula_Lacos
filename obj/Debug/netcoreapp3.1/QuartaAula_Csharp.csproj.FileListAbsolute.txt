@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\QuartaAula_Csharp\bin\Debug\netcoreapp3.1\QuartaAula_Csharp.exe
+C:\Users\dev\Desktop\QuartaAula_Csharp\bin\Debug\netcoreapp3.1\QuartaAula_Csharp.deps.json
+C:\Users\dev\Desktop\QuartaAula_Csharp\bin\Debug\netcoreapp3.1\QuartaAula_Csharp.runtimeconfig.json
+C:\Users\dev\Desktop\QuartaAula_Csharp\bin\Debug\netcoreapp3.1\QuartaAula_Csharp.runtimeconfig.dev.json
+C:\Users\dev\Desktop\QuartaAula_Csharp\bin\Debug\netcoreapp3.1\QuartaAula_Csharp.dll
+C:\Users\dev\Desktop\QuartaAula_Csharp\bin\Debug\netcoreapp3.1\QuartaAula_Csharp.pdb
+C:\Users\dev\Desktop\QuartaAula_Csharp\obj\Debug\netcoreapp3.1\QuartaAula_Csharp.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\QuartaAula_Csharp\obj\Debug\netcoreapp3.1\QuartaAula_Csharp.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\QuartaAula_Csharp\obj\Debug\netcoreapp3.1\QuartaAula_Csharp.AssemblyInfo.cs
+C:\Users\dev\Desktop\QuartaAula_Csharp\obj\Debug\netcoreapp3.1\QuartaAula_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\QuartaAula_Csharp\obj\Debug\netcoreapp3.1\QuartaAula_Csharp.dll
+C:\Users\dev\Desktop\QuartaAula_Csharp\obj\Debug\netcoreapp3.1\QuartaAula_Csharp.pdb
+C:\Users\dev\Desktop\QuartaAula_Csharp\obj\Debug\netcoreapp3.1\QuartaAula_Csharp.genruntimeconfig.cache
